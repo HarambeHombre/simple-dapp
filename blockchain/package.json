@@ -1,0 +1,11 @@
+{
+  "name": "@consensys/hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
